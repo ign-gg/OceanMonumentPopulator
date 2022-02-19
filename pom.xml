@@ -7,7 +7,7 @@
     <groupId>cn.wode490390.nukkit</groupId>
     <artifactId>ompop</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.0-IGN.1</version>
     <name>Ocean Monument Populator</name>
     <description>This is a plugin that implements the ocean monument feature for Nukkit servers</description>
     <url>http://wode490390.cn/</url>
